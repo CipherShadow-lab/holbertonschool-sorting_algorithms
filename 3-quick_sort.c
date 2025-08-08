@@ -4,7 +4,7 @@
 /**
  * lomuto_partition - function partitions the array
  * @array: pointer to array
- * @low: start index for partition 
+ * @low: start index for partition
  * @high: end index for partition
  * @size: size of array
  *
@@ -45,9 +45,9 @@ int lomuto_partition(int *array, int low, int high, size_t size)
 }
 
 /**
- * quick_sort_recursive - function 
+ * quick_sort_recursive - function
  * @array: pointer to array
- * @low: starting index of current sub-array 
+ * @low: starting index of current sub-array
  * @high: ending index of current sub-array
  * @size: size of array
  *
